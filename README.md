@@ -1,2 +1,2 @@
 # soundtasteassociation
-Stimuli for Guetta and Loui, 2017, PLoS One
+Stimuli, data, and figures for Guetta and Loui, 2017, PLoS One
